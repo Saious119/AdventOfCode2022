@@ -2,6 +2,6 @@
 using AdventOfCode2022;
 
 Console.WriteLine("Hello, World!");
-Day6 day6 = new Day6();
-day6.Part1();
+Day7 day7 = new Day7();
+day7.Part1();
 Console.ReadLine();
